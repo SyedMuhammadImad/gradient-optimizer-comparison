@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-07",
+  "title": "CA2 custom optimizer comparison",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "c12e024ea0563a22944846ef60bb62c88bd3d13491c5519cdf5cfa1086c661e7",
+      "bytes": 102
+    },
+    {
+      "path": "assignment.ipynb",
+      "sha256": "63be41de557002ba0b4702f9252a67d29633bfdb55d56de94736815debe20cec",
+      "bytes": 2910
+    },
+    {
+      "path": "assignment.json",
+      "sha256": "dbf78974455c66add0e598df6b80e63b81c2a9a9c3b5ddfd13798014f9574b27",
+      "bytes": 21
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "sha256": "429ee62e05a58e473210797808c65ba9ebf769874aa0e73a20b88d47868d4e96",
+      "bytes": 579
+    },
+    {
+      "path": "experiment.py",
+      "sha256": "ffb7e6f7ef91833345f1f4bca88e0b56879cdb578c1b3c2ab07e56b7e0d55b14",
+      "bytes": 85
+    },
+    {
+      "path": "experiment_core.py",
+      "sha256": "6c74b17c1c85c92ad4d713607a5bc0362e60e3d4bd9e2543d118c698840fd8ea",
+      "bytes": 11756
+    },
+    {
+      "path": "metrics.json",
+      "sha256": "78f94977ca35830d2f0815847760106207ad4e7616b9c77a043a875a20a658cd",
+      "bytes": 29875
+    },
+    {
+      "path": "models.py",
+      "sha256": "4205fdfdb0faf2fbd8c8f091d5a27979f9ebc2f9ad100bbe372875a836c30d88",
+      "bytes": 6425
+    },
+    {
+      "path": "README.md",
+      "sha256": "8a5568bd3632bae624aae55aea1c5c6f07aacf2797f0065047c9077ff9381d9a",
+      "bytes": 3444
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "8a9815ac3ec593524ad6fec33a14238d8e5ce3d655d99fcece764032e6c8b07f",
+      "bytes": 80
+    },
+    {
+      "path": "test_models.py",
+      "sha256": "2137ecb756ab2451c92d2cddfe16f22fcf37968c6f820343aee7b660e09dfac3",
+      "bytes": 1862
+    },
+    {
+      "path": "test_workflow.py",
+      "sha256": "13e5fd5bfbb58f79c012d1ffdeeeae6c23f87e6ef6826c987e285ef4f020f8a4",
+      "bytes": 2834
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "40ef7465a8f7f262a0b34a15cd259d8722449b6e6a856327edc560d9ec49e8b5",
+      "bytes": 996
+    }
+  ]
+}
