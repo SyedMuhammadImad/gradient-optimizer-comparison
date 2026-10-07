@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "title": "CA2 custom optimizer comparison",
+  "date": "2026-10-08",
+  "title": "Gradient optimizer comparison",
   "completion_gate_passed": true,
   "files": [
     {
@@ -9,19 +9,9 @@
       "bytes": 102
     },
     {
-      "path": "assignment.ipynb",
-      "sha256": "63be41de557002ba0b4702f9252a67d29633bfdb55d56de94736815debe20cec",
-      "bytes": 2910
-    },
-    {
-      "path": "assignment.json",
-      "sha256": "dbf78974455c66add0e598df6b80e63b81c2a9a9c3b5ddfd13798014f9574b27",
-      "bytes": 21
-    },
-    {
       "path": "ATTRIBUTION.md",
-      "sha256": "429ee62e05a58e473210797808c65ba9ebf769874aa0e73a20b88d47868d4e96",
-      "bytes": 579
+      "sha256": "34e16e1bf0a79ad59fc7954d98cabc044a58a8e8fadc2441bbf1a3495ffd654e",
+      "bytes": 378
     },
     {
       "path": "experiment.py",
@@ -30,8 +20,8 @@
     },
     {
       "path": "experiment_core.py",
-      "sha256": "6c74b17c1c85c92ad4d713607a5bc0362e60e3d4bd9e2543d118c698840fd8ea",
-      "bytes": 11756
+      "sha256": "8b483459110f1adb8b23c35bcd016447f0a09af6f3169a3b9b71116accdedb95",
+      "bytes": 11956
     },
     {
       "path": "metrics.json",
@@ -40,13 +30,23 @@
     },
     {
       "path": "models.py",
-      "sha256": "4205fdfdb0faf2fbd8c8f091d5a27979f9ebc2f9ad100bbe372875a836c30d88",
-      "bytes": 6425
+      "sha256": "85335445540605ad9f9b18c42cc6b8094f4567438b484ad806012fb2559592bf",
+      "bytes": 6421
+    },
+    {
+      "path": "project.ipynb",
+      "sha256": "ab46c6eae3a99445a893b79df3fa7fb9c895792f0539d582d14c924932b56d6c",
+      "bytes": 2925
+    },
+    {
+      "path": "project.json",
+      "sha256": "dbf78974455c66add0e598df6b80e63b81c2a9a9c3b5ddfd13798014f9574b27",
+      "bytes": 21
     },
     {
       "path": "README.md",
-      "sha256": "8a5568bd3632bae624aae55aea1c5c6f07aacf2797f0065047c9077ff9381d9a",
-      "bytes": 3444
+      "sha256": "d221014f82064288b6ff562ce4562530dee1a130177e32cf66e3185c321c9fd4",
+      "bytes": 3438
     },
     {
       "path": "requirements.txt",
@@ -60,13 +60,13 @@
     },
     {
       "path": "test_workflow.py",
-      "sha256": "13e5fd5bfbb58f79c012d1ffdeeeae6c23f87e6ef6826c987e285ef4f020f8a4",
-      "bytes": 2834
+      "sha256": "5f4838cfdcf68cf979736842f8d78e6ee4834bf0db6eeeb415fdb1f1817ca0dc",
+      "bytes": 2887
     },
     {
       "path": "VERIFICATION.json",
-      "sha256": "40ef7465a8f7f262a0b34a15cd259d8722449b6e6a856327edc560d9ec49e8b5",
-      "bytes": 996
+      "sha256": "bfe2458f9011bbd9d2d415fa5c3d392a772d3de920a9f4e3d9d351c99bdd452c",
+      "bytes": 995
     }
   ]
 }
